@@ -1,0 +1,25 @@
+{
+  "name": "EZ-Welcomer",
+  "version": "1.0.0",
+  "description": "Give your new members a warm welcome!",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+   "engines": {
+    "node": "16.x"
+  },
+  "author": "NotArya",
+  "license": "CC0-1.0",
+  "dependencies": {
+    "@keyv/sqlite": "^2.0.3",
+    "canvas": "^2.8.0",
+    "canvas-constructor": "^5.0.1",
+    "discord.js": "^13.3.1",
+    "keyv": "^4.0.4",
+    "weird-to-normal-chars": "^1.8.0"
+  },
+"devDependencies": {
+    "node": "^16.9.1"
+  }
+}

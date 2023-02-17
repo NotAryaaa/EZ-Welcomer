@@ -1,0 +1,7 @@
+{
+    "token":"My_Bot_Token",
+    "prefix": "My_Bot_Prefix",
+    "embedColor" : "My_Bot_Color",
+    "errorColor" : "My_Bot_Error_Color",
+    "welcomeColor" : "My_Bot_Welcome_Color"
+}
