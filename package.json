@@ -10,7 +10,7 @@
     "node": "16.x"
   },
   "author": "NotArya",
-  "license": "CC0-1.0",
+  "license": "MIT",
   "dependencies": {
     "@keyv/sqlite": "^2.0.3",
     "canvas": "^2.8.0",
