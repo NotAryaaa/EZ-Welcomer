@@ -1,7 +1,9 @@
 # 👋🏻 EZ-Welcomer
 Give your new members a warm welcome!
-<img src="https://cdn.discordapp.com/attachments/1070673897126637608/1076054015319744513/image.png">
-👆🏻 Example
+<center>
+<img src="https://cdn.discordapp.com/attachments/1070673897126637608/1076055273292169266/image.png">
+</center>
+  👆🏻 Example
 
 # 🚧 Requirements
 ### Bot Token
