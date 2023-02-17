@@ -21,6 +21,6 @@ Give your new members a warm welcome!
 # 📝 Note
 ### You can upload a custom image for welcomer! Use ```setbackground``` command.
 ### You can change your welcome channel! Use ```setchannel``` command.
-
+### You can set custom colors easily in ```config.json```
 # ⭐ Support
 ### Please ⭐  this project! It really helps me.
