@@ -4,11 +4,11 @@ Give your new members a warm welcome!
 👆🏻 Example
 
 # 🚧 Requirements
-Bot Token
-Node 16+
-PRESENCE INTENT
-SERVER MEMBERS INTENT
-MESSAGE CONTENT INTENT
+### Bot Token
+### Node 16+
+### PRESENCE INTENT
+### SERVER MEMBERS INTENT
+### MESSAGE CONTENT INTENT
 
 # 🚁 Setup
 ### Go to ```config.json``` and fill everything
